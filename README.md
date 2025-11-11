@@ -76,7 +76,7 @@ Or install directly:
 pip install requests
 ```
 
-## 🚀 Usage
+##  Usage
 
 Run the script from your terminal:
 
@@ -103,14 +103,14 @@ User 1:
   Username: Bret
   Email: Sincere@april.biz
   City: Gwenborough
-------------------------
+
 
 User 4:
   Name: Patricia Lebsack
   Username: Karianne
   Email: Julianne.OConner@kory.org
   City: South Elvis
-------------------------
+
 
 [... more users ...]
 
@@ -121,14 +121,13 @@ User 4:
   Username: Karianne
   Email: Julianne.OConner@kory.org
   City: South Elvis
-------------------------
+
 
 User 6:
   Name: Mrs. Dennis Schulist
   Username: Leopoldo_Corkery
   Email: Karley_Dach@jasper.info
   City: South Christy
-------------------------
 
 Displayed 2 user(s) with cities starting with 'S'.
 ```
@@ -145,7 +144,7 @@ The script gracefully handles various error scenarios:
 | Empty Response | Warns user about empty data |
 | Invalid JSON | Handles JSON parsing errors |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 user-api-fetcher/
